@@ -36,7 +36,6 @@
   
   <h2><li>MEMBERSHIP</li></h2>
   <ol type="a">
-    <li>The initial membership of Non-Partisan Delaware shall be the registered Treasurer of Non-Partisan Delaware’s political committee (CFID: 03004601) on the date these bylaws are ratified, as well as those individuals voting in favor of ratification. This section shall be automatically removed upon completion.</li>
     <li>The founding members’ names shall be preserved from the minutes of the meeting where these bylaws are adopted.</li>
     <li>The Governing Board of Non-Partisan Delaware established in §4 may approve additional memberships or revoke existing ones by a majority vote.  This is the full extent of the due process required for the revocation of membership.</li>
     <li>Members must align their party registrations with any requirements set forth by a 2/3rds vote of the Governing Board within 14 days of the vote or forfeit their membership.</li>
@@ -48,7 +47,6 @@
   
   <h2><li>GOVERNING BOARD</li></h2>
   <ol type="a">
-    <li>The initial Governing Board shall initially consist of those founding members in attendance at the organizational meeting called by the Treasurer of Non-Partisan Delawawre’s political committee (CFID: 03004601) as also described in §4.a.   Upon ratification of these bylaws a meeting of the Governing Board shall be immediately called to order and the organizing convention adjourned.  This section shall be automatically removed upon completion.</li>
     <li>The Governing Board shall be responsible for directing the operations of Non-Partisan Delaware and may establish policies which shall have the full force and effect of these Bylaws, but may not alter these Bylaws unless notice has been provided ahead of time as required in §9 and motions are passed as described in §2.c.</li>
     <li>A quorum of the Governing Board shall be the greater of 40% or 6 members, or a majority if it is less than six.</li>
     <ol type="i">
