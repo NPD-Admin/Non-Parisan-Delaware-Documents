@@ -2,11 +2,11 @@
 <ol>
   <h2><li>NAME & ORGANIZATION</li></h2>
   <ol type="a">
-    <li>This organization, registered as a political committee titled “Non-Partisan Delaware”, CFID: 03004601, shall be known as Non-Partisan Delaware, which may be abbreviated “NPD”.  It is the regularly organized governing organization of the NONPARTISAN party as reported by the Delaware Commissioner of Elections.</li>
-    <li>It may also be referred to as “NonPartisanDE”, "NonPartisanDE.org", or "@NonPartisanDE".</li>
+    <li>This organization, registered as a political committee titled “Non-Partisan Delaware”, <a href="https://cfrs.elections.delaware.gov/Public/ShowReview?memberID=499035%20&memVersID=8%20&cTypeCode=03%20&ftype=SO%20&fpath=%20&fname=%20&isPublic=true">CFID: 03004601</a>, shall be known as Non-Partisan Delaware, which may be abbreviated “NPD”.  It is the regularly organized governing organization of the NONPARTISAN party as reported by the Delaware Commissioner of Elections.</li>
+    <li>It may also be referred to as “<a href="https://www.facebook.com/NonPartisanDE">NonPartisanDE</a>”, "<a href="https://www.NonPartisanDE.org">NonPartisanDE.org</a>", or "<a href="https://twitter.com/NonPartisanDE">@NonPartisanDE</a>".</li>
     <li>Non-Partisan Delaware shall be established as an unincorporated association governed by the laws of the United States and the State of Delaware, as well as these bylaws.</li>
     <li>The Governing Board established in §4 may, by a 4/5ths vote, alter the corporate structure of Non-Partisan Delaware.  Any such restructuring must be reversible.</li>
-    <li>Non-Partisan Delaware shall be registered as a political committee with the Delaware Commissioner of Elections, CFID: 03004601.  The acting Treasurer shall maintain this committee and ensure the timely submission of all required reports.</li>
+    <li>Non-Partisan Delaware shall be registered as a political committee with the Delaware Commissioner of Elections, <a href="https://cfrs.elections.delaware.gov/Public/ShowReview?memberID=499035%20&memVersID=8%20&cTypeCode=03%20&ftype=SO%20&fpath=%20&fname=%20&isPublic=true">CFID: 03004601</a>.  The acting Treasurer shall maintain this committee and ensure the timely submission of all required reports.</li>
     <li>If the Commissioner of Elections unilaterally amends the established committee’s Statement of Organization, the acting Treasurer shall create a new committee whose name and CFID will automatically override the one listed in §1.a & §1.d.</li>
   </ol>
   
@@ -23,7 +23,7 @@
       <li>Failure to pass a second motion within 90 days of the first shall rescind the ruling.</li>
       <li>Passing a second motion less than 14 days after the first shall be null and void.</li>
       <li>Votes under this process which have been cast by the membership, in the proper forum, may be ratified by the Governing Board, and vice versa.</li>
-      <li>These rulings and appeals shall be publicly cataloged and carry the full force and effect of these Bylaws unless and until they are overturned by amending these Bylaws to render them moot or by following the process outlined in this section.</li>
+      <li>These rulings and appeals shall be <a href="https://groups.google.com/g/non-partisan-delaware-public-record">publicly cataloged</a> and carry the full force and effect of these Bylaws unless and until they are overturned by amending these Bylaws to render them moot or by following the process outlined in this section.</li>
     </ol>
   </ol>
   
@@ -36,7 +36,7 @@
   
   <h2><li>MEMBERSHIP</li></h2>
   <ol type="a">
-    <li>The founding members’ names shall be preserved from the minutes of the meeting where these bylaws are adopted.</li>
+    <li>The founding members’ names shall be <a href="https://www.nonpartisande.org/2022/06/non-partisan-delaware.html">preserved</a> from the minutes of the meeting where these bylaws are adopted.</li>
     <li>The Governing Board of Non-Partisan Delaware established in §4 may approve additional memberships or revoke existing ones by a majority vote.  This is the full extent of the due process required for the revocation of membership.</li>
     <li>Members must align their party registrations with any requirements set forth by a 2/3rds vote of the Governing Board within 14 days of the vote or forfeit their membership.</li>
     <ol type="i">
@@ -47,7 +47,7 @@
   
   <h2><li>GOVERNING BOARD</li></h2>
   <ol type="a">
-    <li>The Governing Board shall be responsible for directing the operations of Non-Partisan Delaware and may establish policies which shall have the full force and effect of these Bylaws, but may not alter these Bylaws unless notice has been provided ahead of time as required in §9 and motions are passed as described in §2.c.</li>
+    <li>The Governing Board shall be responsible for directing the operations of Non-Partisan Delaware and may establish <a href="https://www.nonpartisande.org/2022/06/non-partisan-delaware.html">policies</a> which shall have the full force and effect of these Bylaws, but may not alter these Bylaws unless notice has been provided ahead of time as required in §9 and motions are passed as described in §2.c.</li>
     <li>A quorum of the Governing Board shall be the greater of 40% or 6 members, or a majority if it is less than six.</li>
     <ol type="i">
       <li>When quorum is 6 or more, at least one member must be present from each county to constitute a proper quorum.</li>
@@ -143,28 +143,28 @@
 
   <h2><li>MEETINGS AND ACTIVITIES</li></h2>
   <ol type="a">
-    <li>The Governing Board of Non-Partisan Delaware shall establish an internet chat community for facilitating communication between party members.  This will serve as the default venue for meetings of the Governing Board and as a collaboration space.</li>
+    <li>The Governing Board of Non-Partisan Delaware shall establish an <a href="https://discord.gg/j5nRAFZEuZ">internet chat community</a> for facilitating communication between party members.  This will serve as the default venue for meetings of the Governing Board and as a collaboration space.</li>
     <li>The Governing Board shall join in at least one live meeting per quarter, which may be scheduled by a majority vote providing at least 7 days notice.  If no motion is passed specifying a different time and location, the Governing Board shall meet on the third Sunday of the last month of each quarter.  All staff, subcommittees, and other operational areas of the organization should submit reports no later than the end of the first month of each quarter for consideration at the next regular meeting.</li>
-    <li>The Governing Board and other subcommittees of Non-Partisan Delaware may also conduct business asynchronously through an email list or some other publicly viewable forum.  In order to conduct business in this fashion at least 1/3rd of the Governing Board must sponsor any main motion.  A properly sponsored motion in this forum may remain in a pending state for at least 24 hours to handle any amendments, discussion, or other subsidiary motions, or the vote may be called early but no less than 3 hours from the time it was sponsored once a majority of the Governing Board has sponsored the motion.  The vote may be called immediately upon request by 2/3rds of the Board.</li>
+    <li>The Governing Board and other subcommittees of Non-Partisan Delaware may also conduct business asynchronously through an email list or some other <a href="https://discord.gg/j5nRAFZEuZ">publicly viewable forum</a>.  In order to conduct business in this fashion at least 1/3rd of the Governing Board must sponsor any main motion.  A properly sponsored motion in this forum may remain in a pending state for at least 24 hours to handle any amendments, discussion, or other subsidiary motions, or the vote may be called early but no less than 3 hours from the time it was sponsored once a majority of the Governing Board has sponsored the motion.  The vote may be called immediately upon request by 2/3rds of the Board.</li>
     <li>Once a vote is called, it shall remain open for 48 hours or until all votes have been received.  Once a motion is passed, even if the time has not elapsed and all votes have not been received, business can continue in parallel to the remaining votes.</li>
     <li>A majority of the Governing Board can sponsor a notice at least 7 days in advance and call a special real time meeting in addition to the quarterly meetings.  2/3rds of the Governing Board can sponsor a notice at least 24 hours in advance and call a more urgent meeting.  Both of these motions must provide an agenda that cannot be suspended.  These meetings may not extend for more than one hour without a 2/3rds vote of the entire Governing Board agreeing to extend time to a new specific end time.</li>
     <li>Any member of the Governing Board, including a chair pro tem in a real time meeting, may make motions for consideration.  Motions in real time meetings shall require one second for each complete set of 15 members on the Board.</li>
     <li>Governing Board members may make discrete motions private to the Board that will not be released for a year unless that time period is specifically adjusted by a majority vote.</li>
     <li>Motions related to the Strategic Plan described in §7.a shall only go public with the consent of 2/3rds of the Governing Board.</li>
-    <li>Once a motion is published, it should be indexed and tracked on a public list.</li>
+    <li>Once a motion is published, it should be indexed and tracked on a <a href="https://groups.google.com/g/non-partisan-delaware-public-record">public list</a>.</li>
     <li>Members of the Governing Board shall establish and attend regular events in all three counties open to all members and prospective members and allies to conduct outreach, intake and onboard volunteers and staff, plan strategy, develop relationships, and provide a town hall/open discussion forum to promote the views and activities and endorsed candidates of Non-Partisan Delaware.  Failure to attend at least four such events throughout a single year will result in forfeiture of that member’s Board seat.</li>
   </ol>
   
   <h2><li>NOTIFICATIONS AND AMENDMENTS</li></h2>
   <ol type="a">
-    <li>Notifications to the Governing Board must be provided by email and over the chat forum established in §8.a on their own channel and must be clearly legible.</li>
-    <li>Members of the Governing Board who unsubscribe from the mailing list or leave the chat server are still presumed to have received all notifications.</li>
-    <li>Amendments to these Bylaws shall occur by two votes of at least 2/3rds of the entire Governing Board at least 14 days but no more than 90 days apart.  Both motions must be notified to the Governing Board and published to party communications channels.</li>
+    <li>Notifications to the Governing Board must be provided by email and over the <a href="https://discord.gg/j5nRAFZEuZ">chat forum</a> established in §8.a on their own channel and must be clearly legible.</li>
+    <li>Members of the Governing Board who unsubscribe from the <a href="https://groups.google.com/g/non-partisan-delaware-public-record">mailing list</a> or leave the <a href="https://discord.gg/j5nRAFZEuZ">chat server</a> are still presumed to have received all notifications.</li>
+    <li>Amendments to these Bylaws shall occur by two votes of at least 2/3rds of the entire Governing Board at least 14 days but no more than 90 days apart.  Both motions must be notified to the Governing Board and published to <a href="https://groups.google.com/g/non-partisan-delaware-public-record">party communications channels</a>.</li>
     <li>Following the passage of an amendment to these Bylaws, the Governing Board has 30 days to bring the organization into compliance with the amended Bylaws or may, by a majority vote, revert the amendment if compliance proves to be impossible.</li>
     <li>Any amendments reverted in this fashion shall be deemed to have been notified as required to consider them again 14 to 90 days following their reversion.</li>
     <li>The purpose and effect of an amendment must remain consistent between the two amending motions, though narrowly tailored or grammatical changes are permitted.</li>
-    <li>A change log shall be maintained tracing all amendments to these Bylaws and retaining copies of previous versions.  This change log shall be publicly accessible.</li>
-    <li>The most recent version of the Bylaws should include links to the resources described by them once those resources are created and approved by the Governing Board.</li>
+    <li>A <a href="https://github.com/NPD-Admin/Non-Partisan-Delaware-Documents">change log</a> shall be maintained tracing all amendments to these Bylaws and retaining copies of previous versions.  This change log shall be publicly accessible.</li>
+    <li>The <a href="https://github.com/NPD-Admin/Non-Partisan-Delaware-Documents/blob/main/Bylaws.md">most recent version of the Bylaws</a> should include links to the resources described by them once those resources are created and approved by the Governing Board.</li>
     <li>For the first year of Non-Partisan Delaware’s operations, amending the Bylaws shall only require a single 2/3rds vote of the Governing Board, irrespective of all other requirements.  This section shall be automatically deleted at the end of that year.</li>
   </ol>
 </ol>
