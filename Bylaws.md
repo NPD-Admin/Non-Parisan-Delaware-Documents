@@ -2,11 +2,11 @@
 <ol>
   <h2><li>NAME & ORGANIZATION</li></h2>
   <ol type="a">
-    <li>This organization, registered as a political committee titled “Non-Partisan Delaware”, <a href="https://cfrs.elections.delaware.gov/Public/ShowReview?memberID=499035%20&memVersID=8%20&cTypeCode=03%20&ftype=SO%20&fpath=%20&fname=%20&isPublic=true">CFID: 03004601</a>, shall be known as Non-Partisan Delaware, which may be abbreviated “NPD”.  It is the regularly organized governing organization of the NONPARTISAN party as reported by the Delaware Commissioner of Elections.</li>
+    <li>This organization, registered as a political committee titled “Non-Partisan Delaware”, <a href="https://cfrs.elections.delaware.gov/">CFID: 03004601</a>, shall be known as Non-Partisan Delaware, which may be abbreviated “NPD”.  It is the regularly organized governing organization of the NONPARTISAN party as reported by the Delaware Commissioner of Elections.</li>
     <li>It may also be referred to as “<a href="https://www.facebook.com/NonPartisanDE">NonPartisanDE</a>”, "<a href="https://www.NonPartisanDE.org">NonPartisanDE.org</a>", or "<a href="https://twitter.com/NonPartisanDE">@NonPartisanDE</a>".</li>
     <li>Non-Partisan Delaware shall be established as an unincorporated association governed by the laws of the United States and the State of Delaware, as well as these bylaws.</li>
     <li>The Governing Board established in §4 may, by a 4/5ths vote, alter the corporate structure of Non-Partisan Delaware.  Any such restructuring must be reversible.</li>
-    <li>Non-Partisan Delaware shall be registered as a political committee with the Delaware Commissioner of Elections, <a href="https://cfrs.elections.delaware.gov/Public/ShowReview?memberID=499035%20&memVersID=8%20&cTypeCode=03%20&ftype=SO%20&fpath=%20&fname=%20&isPublic=true">CFID: 03004601</a>.  The acting Treasurer shall maintain this committee and ensure the timely submission of all required reports.</li>
+    <li>Non-Partisan Delaware shall be registered as a political committee with the Delaware Commissioner of Elections, <a href="https://cfrs.elections.delaware.gov/">CFID: 03004601</a>.  The acting Treasurer shall maintain this committee and ensure the timely submission of all required reports.</li>
     <li>If the Commissioner of Elections unilaterally amends the established committee’s Statement of Organization, the acting Treasurer shall create a new committee whose name and CFID will automatically override the one listed in §1.a & §1.d.</li>
   </ol>
   
