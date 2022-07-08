@@ -1,0 +1,3 @@
+It is the policy of Non-Partisan Delaware that all materials approved to carry our branding shall be marked with a QR code linking to our website, and that our website shall carry a link to this repository folder.  This folder shall contain copies of all materials approved by the Governing Board of Non-Partisan Delaware to carry our branding.  
+
+Any other materials not carrying that mark or not contained in this repository have not been approved by Non-Partisan Delaware and do not necessarily reflect our views, the views of the Governing Board, or the views of our members.
