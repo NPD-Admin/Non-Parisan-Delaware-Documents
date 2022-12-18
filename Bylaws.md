@@ -129,8 +129,9 @@
         <li>What did we get, what do we need, how do we get it.</li>
       </ol>
     </ol>
-    <li>The Governing Board shall conduct three rounds of nominations and endorsements.</li>
+    <li>The Governing Board shall conduct nominations and endorsements.</li>
     <ol type="i">
+      <li>The Governing Board may preselect candidates in odd years for nominations and endorsements.  Candidates preselected in odd years shall be deemed to have been nominated as required by law within 10 days of the New Year absent a 4/5 vote to reconsider or a 2/3 vote to hold the nomination until the next round of nominations and endorsements.<li>
       <li>By the end of January prior to an election, a portfolio of priority issues shall have been assembled, relevant bills from previous sessions identified and candidates mapped to votes for incumbents, and a questionnaire should be ready for candidates to complete when applying for our endorsement or nomination.</li>
       <li>By the end of March prior to an election, our priority candidates should be nominated or have filed in their primaries.  Candidates we have had good relationships with already in primaries should be endorsed when appropriate.</li>
       <li>By the end of July, the primary field will be set and we should be plugging in gaps in nominations and finalizing endorsements for primary elections.  Questionnaires should be updated to reflect bills up to the end of the session.</li>
