@@ -32,6 +32,7 @@
     <li>Non-Partisan Delaware is a Delaware political party serving the people of Delaware, independent of any national organizations, affiliations, or political parties.</li>
     <li>Non-Partisan Delaware may not be merged into or permanently affiliate with any other organization except in the event that there are no active members.</li>
     <li>The determinations of any external organizations shall not be considered mandatory authority by Non-Partisan Delaware except when required by law.</li>
+    <li>This article may not be amended except by a unanimous vote of the Governing Board and any amendments must consistently assert the independence of NPD from any national associations.
   </ol>
   
   <h2><li>MEMBERSHIP</li></h2>
