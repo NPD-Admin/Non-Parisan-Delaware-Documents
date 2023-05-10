@@ -167,6 +167,6 @@
     <li>The purpose and effect of an amendment must remain consistent between the two amending motions, though narrowly tailored or grammatical changes are permitted.</li>
     <li>A <a href="https://github.com/NPD-Admin/Non-Partisan-Delaware-Documents">change log</a> shall be maintained tracing all amendments to these Bylaws and retaining copies of previous versions.  This change log shall be publicly accessible.</li>
     <li>The <a href="https://github.com/NPD-Admin/Non-Partisan-Delaware-Documents/blob/main/Bylaws.md">most recent version of the Bylaws</a> should include links to the resources described by them once those resources are created and approved by the Governing Board.</li>
-    <li>For the first year of Non-Partisan Delaware’s operations, amending the Bylaws shall only require a single 2/3rds vote of the Governing Board, irrespective of all other requirements.  This section shall be automatically deleted at the end of that year.</li>
+    <li>For the first two years of Non-Partisan Delaware’s operations, amending the Bylaws shall only require a single 2/3rds vote of the Governing Board, irrespective of all other requirements.  This section shall be automatically deleted at the end of that year.</li>
   </ol>
 </ol>
