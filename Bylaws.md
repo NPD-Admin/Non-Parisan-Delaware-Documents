@@ -12,7 +12,7 @@
   
   <h2><li>PARLIAMENTARY AUTHORITY</li></h2>
   <ol type="a">
-    <li>These Bylaws as interpreted by the Governing Board established in §4 shall be the final parliamentary authority regarding NPP operations except as prohibited by law.</li>
+    <li>These Bylaws as interpreted by the Governing Board established in §4 shall be the final parliamentary authority regarding NPD operations except as prohibited by law.</li>
     <li>Other sources of parliamentary authority may be offered as persuasive authority in situations where these Bylaws are silent, but the will of the majority shall be controlling.</li>
     <ol type="i">
       <li>Such rulings and appeals shall be publicly cataloged and carry the full force and effect of these Bylaws unless and until they are overturned by amending these Bylaws to render them moot or by following the process outlined in §2.c.</li>
