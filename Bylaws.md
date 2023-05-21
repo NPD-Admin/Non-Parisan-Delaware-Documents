@@ -71,7 +71,15 @@
         <li>If “None of the Above” wins an election, the position shall remain vacant pending a new election no less than 14 days later.  Any candidate not elected until after the beginning of their term will still be required to run for reelection as if they had begun their term on time.</li>
       </ol>
       <li>Members of the governing board may appoint another member as proxy.</li>
-      <li>Each member of the Governing Board shall draw a card at random from a single suit.  Ace - 3 shall be held back while Sussex and NCC choose their cards.  Kent will then draw from the remaining cards.  Cards Ace - 3 shall contest an election in Year 1, with one being eliminated.  Cards 4-5 shall be safe with their terms beginning in Year 2.  Cards 6 - 8 shall contest an election in Year 3, with one being eliminated.  Cards 9 - 10 shall be safe with their terms beginning in Year 4.  Cards Jack - King shall contest an election in Year 5, with one being eliminated.  If any card holder for an election resigns before or refuses to contest their assigned election, the election is cancelled unless a vacancy needs to be filled.  This section shall be automatically deleted when the Governing Board has 10 members.
+      <li>The remaining Founding Members of the Governing Board of NPD shall complete the initial period of their terms, opening the window described in item (b) above, on the following annual schedule:</li>
+      <ul>
+        <li>2023 - Will McVay, Mary Pat Dittmeyer</li>
+        <li>2024 - Nicole Shaw, John Machurek</li>
+        <li>2025 - Joe DiPasquale, Aarika Nelson</li>
+        <li>2026 - Steve Newton, David Rogers</li>
+        <li>2027 - Gwendolyn Jones, Roger Stemler, James Brittingham</li>
+      </ul>
+      <p>This section shall be automatically amended to remove Founding Board Members who have been replaced or reelected, and deleted when the list is emptied.
 </li>
     </ol>
     <li>If 40% or more members of the Governing Board reside in the same county, no new members may be elected from that county.</li>
