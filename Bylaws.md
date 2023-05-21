@@ -138,12 +138,10 @@
         <li>What did we get, what do we need, how do we get it.</li>
       </ol>
     </ol>
-    <li>The Governing Board shall conduct three rounds of nominations and endorsements.</li>
+    <li>The Governing Board shall conduct nominations and endorsements.</li>
     <ol type="i">
-      <li>By the end of January prior to an election, a portfolio of priority issues shall have been assembled, relevant bills from previous sessions identified and candidates mapped to votes for incumbents, and a questionnaire should be ready for candidates to complete when applying for our endorsement or nomination.</li>
-      <li>By the end of March prior to an election, our priority candidates should be nominated or have filed in their primaries.  Candidates we have had good relationships with already in primaries should be endorsed when appropriate.</li>
-      <li>By the end of July, the primary field will be set and we should be plugging in gaps in nominations and finalizing endorsements for primary elections.  Questionnaires should be updated to reflect bills up to the end of the session.</li>
-      <li>By the end of September the general election field will be set and our nominations and endorsements should be complete.</li>
+      <li>The Governing Board of NPD may nominate and endorse candidates as the Nominating Convention of NPD.</li>
+      <li>Nominations completed prior to the beginning of an election year shall be deemed to have occurred on the first day of an election year and may only be rescinded in the interim by a 2/3rds vote of the Governing Board.</li>
       <li>The Governing Board may charter county committees following the release of the strategic plan for the sole purpose of conducting candidate interviews, nominations, and endorsements at the county level and below.  These committees shall dissolve following the deadline to nominate candidates and recreated from scratch for the next election.  Any county level nominations may be overturned by a 2/3rds vote of the Governing Board within 48 hours.</li>
       <li>The organizing convention may nominate candidates for any position and shall select a presiding chair and secretary for each county to complete nominations.  This section shall be automatically deleted following the next general election.</li>
     </ol>
